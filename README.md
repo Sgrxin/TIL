@@ -1,6 +1,10 @@
 # TIL 📚 · Today I Learned
 
-每天记录一个学到的东西，积少成多。主要方向：**AI 应用开发 / RAG / 算法 / Python 工程实践**。
+方向：**AI 应用开发 / RAG / 算法 / Python 工程实践**
+
+![notes](https://img.shields.io/github/directory-file-count/Sgrxin/TIL/notes?label=notes&extension=md)
+![last commit](https://img.shields.io/github/last-commit/Sgrxin/TIL?label=last%20commit)
+![commits](https://img.shields.io/github/commit-activity/m/Sgrxin/TIL?label=commits%2Fmonth)
 
 > 规则：一天一个点，讲透为止，不贪多。
 
