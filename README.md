@@ -13,6 +13,7 @@
 | :--- | :--- | :--- |
 | 2026-11-17 | RAG 切分策略：chunk_size 与 overlap 的取舍 | [阅读](notes/2026-11-17-rag-chunking.md) |
 | 2026-11-18 | SSE 流式输出：RAG 问答的打字机效果 | [阅读](notes/2026-11-18-sse-streaming.md) |
+| 2026-11-19 | 余弦相似度：向量检索的心脏 | [阅读](notes/2026-11-19-cosine-similarity.md) |
 
 ## 📁 结构
 
